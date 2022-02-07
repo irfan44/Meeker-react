@@ -1,0 +1,14 @@
+.brand{
+    padding: 16px;
+    display: inline;
+    font-size: 32px;
+}
+
+.nav-items{
+    padding: 16px;
+    display: inline;
+}
+
+a {
+  color: black;
+}
